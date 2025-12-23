@@ -14,11 +14,10 @@
 
 1. Java 11+ 
 2. Gradle
-3. Браузер Google Chrome 
-4. Appium
-5. Android Studio
-6. Эмулятор Android (Pixel_9)
-7. Приложение Wikipedia на эмуляторе
+3. Appium
+4. Android Studio
+5. Эмулятор Android (Pixel_9)
+6. Приложение Wikipedia на эмуляторе
 
 ## Как запустить автотесты
 
@@ -52,4 +51,6 @@ appium -p 4723
 gradle clean test
 ```
 
-### Скриншоты:
+### Скриншот успешного запуска автотестов:
+
+![WikipediaTests.png](WikipediaTests.png)
